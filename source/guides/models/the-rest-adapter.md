@@ -77,7 +77,7 @@ Requests for `App.Person` would now target `https://api.example.com/people/1`.
 
 When requesting a record, the REST adapter expects your server to return
 a JSON representation of the record that conforms to the following
-conventions.
+conventions. The conventions are more fully described at http://jsonapi.org/format/#id-based-json-api .
 
 #### JSON Root
 
